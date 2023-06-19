@@ -14,7 +14,7 @@
                 "title": "Stateful",
                 "type": "boolean",
                 "default": false,
-                "description": "The switch remains on instead of being automatically turned off."
+                "description": "The Sswitch remains on instead of being automatically turned off."
             },
             "dimmer": {
                 "title": "Dimmer",
