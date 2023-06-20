@@ -3,6 +3,7 @@
   "version": "0.9.1",
   "description": "Fork Dummy switches for Homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
+  "author": "Steffen Dahms",
   "keywords": [
     "homebridge-plugin"
   ],
